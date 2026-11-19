@@ -1,0 +1,2 @@
+// ALVéON PRIVÉ — curated artwork (processed: tinted champagne, backgrounds removed)
+export const ART = { hands: 'assets/art/hands.webp', david: 'assets/art/david.webp', clouds: 'assets/art/clouds.webp', jacob: 'assets/art/jacob.webp', sword: 'assets/art/sword.webp', trumpet: 'assets/art/trumpet.webp', back: 'assets/art/back.webp', thorns: 'assets/art/thorns.webp', fall: 'assets/art/fall.webp', selfmade: 'assets/art/selfmade.webp', cliff: 'assets/art/cliff.webp', atlas: 'assets/art/atlas.webp' };
